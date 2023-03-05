@@ -12,8 +12,11 @@ Estadística, ambas de la Universidad Nacional de Tres de Febrero.
 En este material entontrarán:
 
 1 - Guía de introducción al uso de R.
+
 2 - Guía de introducción al análisis de datos con R.
+
 3 - Guía de introducción a gráficos con R.
-3 - Guía de introducción a comunicación con R.
+
+4 - Guía de introducción a comunicación con R.
 
 Por errores y comentarios, no dudes en contactarnos.
